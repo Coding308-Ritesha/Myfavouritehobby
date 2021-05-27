@@ -1,0 +1,17 @@
+.image{
+  width:240px;
+  height:150px;
+  border-radius: 50%;
+}
+body{
+  text-align:center;
+  background: linear-gradient(#faf8e6 0%, #f2c3ac 100%);
+}
+p{
+font-size:17px;
+color:#1A237E;
+}
+.line{
+    height: 50px;
+    width: 50px;
+}
